@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello :) 👋
+___
+Hello, I'm Jinho Kim, dreaming of becoming a Data Scientist!
+I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Management, and minor in Computer Science.
+
+
+### Concat
+___
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 <!--
 **jinho5913/jinho5913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
