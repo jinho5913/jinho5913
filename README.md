@@ -1,6 +1,6 @@
 ### Hello :) 👋
 ___
-Hello, I'm Jinho Kim, dreaming of becoming a Data Scientist!
+Hello, I'm Jinho Kim, dreaming of becoming a Data Scientist!  
 I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Management, and minor in Computer Science.
 
 
