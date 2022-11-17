@@ -6,7 +6,7 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 
 ### Concat
 ___
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 
 
 <!--
