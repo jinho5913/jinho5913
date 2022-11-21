@@ -34,7 +34,20 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | 2021.08.21 ~ 2022.08.13 | BITAmin | 빅데이터 연합 대외 동아리(ML/DL) | 맴버 | [수료](https://github.com/jinho5913/jinho5913/blob/main/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg) |
 
 
+
     
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&hide=html&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False"/>
+  </a>
+</div>
+
+ <br><br>
+ 
+ 
+ <div align = "center">
+   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinLib&theme=dark" alt="augustinLib" /></p>
+</div>
    
 <!--
 **jinho5913/jinho5913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
