@@ -21,7 +21,7 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
 
-### 🖥 Platform
+### 🏛 Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
 
     
@@ -33,7 +33,13 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | 2021.03 ~ | 국민대학교 | 소프트웨어전공 | 융합전공 | 재학 |
 | 2021.08.21 ~ 2022.08.13 | BITAmin | 빅데이터 연합 대외 동아리(ML/DL) | 맴버 | [수료](https://github.com/jinho5913/jinho5913/blob/main/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg) |
 
+### 💻 Project
+|연도|분류|프로젝트|링크|
+|-|-|-|-|
+|2021|데이터분석|백화점 고객분석을 통한 마케팅 전략 제시|<a href="[https://github.com/sy00n/DREAMCAP](https://github.com/jinho5913/Project/tree/main/%5BBusiness%20Analysis%5D%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%B7%20%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2%E1%86%A8%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%85%E1%85%A3%E1%86%A8%20%E1%84%8C%E1%85%A6%E1%84%89%E1%85%B5)" target="_blank">링크</a>|
 
+    
+    
 
    
 <!--
