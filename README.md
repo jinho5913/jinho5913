@@ -37,7 +37,7 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 
 | 기간 | 소속 | 부서 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2021.12 ~ | 노리스페이스 | AI Researcher | 시계열 데이터 분석/Under Writing | [링크] |
+| 2022.12 ~ | 노리스페이스 | AI Researcher | 시계열 데이터 분석/Under Writing | [링크] |
     
 
    
