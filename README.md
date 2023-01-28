@@ -43,6 +43,8 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | 기간 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
+| 2022 | 자연어처리 | 교보문고 베스트셀러 텍스트분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Kyobo-Bookstore-Best-Seller-Analysis) |
+    
 
     
 
