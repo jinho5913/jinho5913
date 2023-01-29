@@ -3,6 +3,7 @@ Jinho Kim
 * To Be Data Scientist
 * Kookmin Univ. in 2024 major in AI Big Data & Management, and minor in Computer Science.
 
+
 ## ☎️ Contact
 <a href="https://jh-datahouse.tistory.com/">
     <img 
@@ -21,7 +22,7 @@ Jinho Kim
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
 
     
-### 📚 Education
+## 📚 Education
 
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
@@ -29,14 +30,14 @@ Jinho Kim
 | 2021.03 ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
 | 2021.08.21 ~ 2022.08.13 | BITAmin | 빅데이터 연합 대외 동아리(ML/DL) | 맴버 | [수료](https://github.com/jinho5913/jinho5913/blob/main/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg) |
 
-### 📔 Career
+## 📔 Career
 
 | 기간 | 소속 | 부서 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022.12 ~ | 노리스페이스 | AI Researcher | 시계열 데이터 분석/Under Writing | [진행중] |
     
  
-### 🏅 Competition
+## 🏅 Competition
 | 주최 | 내용 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: |
 | MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
@@ -45,7 +46,7 @@ Jinho Kim
 
 
 
-### 💻  Project
+## 💻  Project
 
 | 기간 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
