@@ -42,6 +42,7 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | :------: | :------: | :------: | :------: |
 | MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
 | BigContest | 앱 사용성 데이터를 통한 대출신청 예측분석 | 팀장 | [링크](https://github.com/jinho5913/ML_Prediction-Analysis-of-Loan-Application) |
+| L-point | 고객 구매 데이터 기반 예측 모델 개발 및 개인화 마케팅 전략 제안 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
 
 
 
