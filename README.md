@@ -36,6 +36,11 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | :------: | :------: | :------: | :------: | :------: |
 | 2022.12 ~ | 노리스페이스 | AI Researcher | 시계열 데이터 분석/Under Writing | [링크] |
     
+ 
+### 🏅 Competition
+| 주최 | 내용 | 역할 | 수상 | 비고 |
+| :------: | :------: | :------: | :------: | :------: |
+| MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
 
 
 ### 💻  Project
