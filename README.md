@@ -44,7 +44,7 @@ I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Managem
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
 | 2022 | 자연어분석 | 교보문고 베스트셀러 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Kyobo-Bookstore-Best-Seller-Analysis) |
-| 2022 | 자연어분석 |  뉴스 기사 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Naver-New-Analysis) |
+| 2022 | 자연어분석 | 다음 뉴스 기사 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Naver-New-Analysis) |
 | 2021 | ML | 설문조사 응답 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Predict-survey-responses) |
 | 2021 | ML | ML 자율 스터디 | 기획, 운영 | [링크](https://github.com/jinho5913/ML_Self-Group-Study) |
 | 2021 | 데이터분석 | 백화점 고객분석 통한 마케팅 전략 제시 | 팀장 | [링크](https://github.com/jinho5913/DA_Business-analysis-with-Data) |
