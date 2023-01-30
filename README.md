@@ -38,17 +38,17 @@ Jinho Kim
     
  
 ## 🏅 Competition
-| 주최 | 내용 | 역할 | 비고 |
-| :------: | :------: | :------: | :------: |
-| MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
-| BigContest | 앱 사용성 데이터를 통한 대출신청 예측분석 | 팀장 | [링크](https://github.com/jinho5913/ML_Prediction-Analysis-of-Loan-Application) |
-| L-point | 고객 구매 데이터 기반 예측 모델 개발 및 개인화 마케팅 전략 제안 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
+| 연도 | 주최 | 내용 | 역할 | 비고 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2022 | MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
+| 2022 | BigContest | 앱 사용성 데이터를 통한 대출신청 예측분석 | 팀장 | [링크](https://github.com/jinho5913/ML_Prediction-Analysis-of-Loan-Application) |
+| 2022 | L-point | 고객 구매 데이터 기반 예측 모델 개발 및 개인화 마케팅 전략 제안 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
 
 
 
 ## 💻  Project
 
-| 기간 | 분류 | 프로젝트명 | 역할 | 비고 |
+| 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [정리중] |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
