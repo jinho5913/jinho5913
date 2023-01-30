@@ -52,6 +52,7 @@ Jinho Kim
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [정리중] |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
+| 2022 | 추천시스템 | 무신사 리뷰를 통한 옷 추천시스템 개발 | 팀장 | [정리중](https://github.com/jinho5913/RS_Review-based-Clothing-Recommendation-System) |
 | 2022 | 자연어분석 | 교보문고 베스트셀러 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Kyobo-Bookstore-Best-Seller-Analysis) |
 | 2022 | 자연어분석 | 다음 뉴스 기사 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Daum-New-Analysis) |
 | 2021 | ML | 설문조사 응답 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Predict-survey-responses) |
