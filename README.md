@@ -50,8 +50,8 @@ Jinho Kim
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 인턴 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
-| 2023 | Time Series | 샐러드 수요량 예측 모델 개발 | 인턴 | [링크](https://github.com/jinho5913/DL_Time-Series-Forecasting) |
+| 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 개인 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
+| 2023 | Time Series | 샐러드 수요량 예측 모델 개발 | 개인 | [링크](https://github.com/jinho5913/DL_Time-Series-Forecasting) |
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [정리중] |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
 | 2022 | 추천시스템 | 무신사 리뷰를 통한 옷 추천시스템 개발 | 팀장 | [정리중](https://github.com/jinho5913/RS_Review-based-Clothing-Recommendation-System) |
