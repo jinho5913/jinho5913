@@ -63,3 +63,6 @@ Jinho Kim
 | 2021 | 데이터분석 | 생활 속 My Data를 활용한 자기 분석 | 개인 | [링크](https://github.com/jinho5913/DA_Self-Analysis-with-My-Data) |
 | 2021 | 데이터분석 | 백화점 고객분석 통한 마케팅 전략 제시 | 팀장 | [링크](https://github.com/jinho5913/DA_Business-analysis-with-Data) |
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho5913)](https://solved.ac/jinho5913/)
