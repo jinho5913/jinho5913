@@ -28,6 +28,7 @@ Jinho Kim
 | :------: | :------: | :------: | :------: | :------: |
 | 2018.03 ~ | 국민대학교  | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 제1전공 | 재학 |
 | 2021.03 ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
+| 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 맴버 | [링크](https://cms.kookmin.ac.kr/kmu-dna/index.do)|
 | 2021.08.21 ~ 2022.08.13 | BITAmin | 빅데이터 연합 대외 동아리(ML/DL) | 맴버 | [수료](https://github.com/jinho5913/jinho5913/blob/main/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg) |
 | 2023.03 ~ | SKT DEVOCEAN YOUNG 2기 | 대학생 테크인플루언서 | 맴버 | [링크](https://devocean.sk.com/) |
 
@@ -56,6 +57,7 @@ Jinho Kim
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [논문 작성중](https://github.com/jinho5913/CV_Development-of-Video-Editing-Point-Marking-Technology-Using-Facial-Keypoint) |
 | 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
 | 2022 | 추천시스템 | 무신사 리뷰를 통한 옷 추천시스템 개발 | 팀장 | [정리중](https://github.com/jinho5913/RS_Review-based-Clothing-Recommendation-System) |
+| 2022 | Static | 유망주 축구선수 다변량 통계 분석 | 팀원 | [링크] |
 | 2022 | 자연어분석 | 교보문고 베스트셀러 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Kyobo-Bookstore-Best-Seller-Analysis) |
 | 2022 | 자연어분석 | 다음 뉴스 기사 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Daum-New-Analysis) |
 | 2021 | ML | 설문조사 응답 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Predict-survey-responses) |
