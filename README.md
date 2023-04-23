@@ -52,6 +52,7 @@ Jinho Kim
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
+| 2023 | NLP | 네이버페이 사용 로그 분석 | 팀장 | [논문 작성중](https://github.com/jinho5913/NLP_Investigate-Naver-Pay-usage-logs) |
 | 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 개인 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
 | 2023 | Time Series | 샐러드 수요량 예측 모델 개발 | 개인 | [링크](https://github.com/jinho5913/DL_Time-Series-Forecasting) |
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [논문 작성중](https://github.com/jinho5913/CV_Development-of-Video-Editing-Point-Marking-Technology-Using-Facial-Keypoint) |
