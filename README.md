@@ -37,6 +37,7 @@ Jinho Kim
 | 기간 | 소속 | 부서 | 담당 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022.12 ~ 2023.02 | 노리스페이스 | AI Researcher(인턴) | 시계열 예측, NER | [홈페이지](https://www.norispace.com/)
+| 2024.1 ~  | 삼성생명 | 디지털사업부 | 디지털마케팅(모니모) | [홈페이지](https://direct.samsunglife.com/)
     
 
 ## 🏅 Competition
