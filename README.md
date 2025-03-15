@@ -30,7 +30,7 @@ Jinho Kim
 | 2021.03 ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
 | 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 맴버 | [링크](https://cms.kookmin.ac.kr/kmu-dna/index.do)|
 | 2021.08.21 ~ 2022.08.13 | BITAmin | 빅데이터 연합 대외 동아리(ML/DL) | 맴버 | [수료](https://github.com/jinho5913/jinho5913/blob/main/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.jpeg) |
-| 2023.03 ~ | SKT DEVOCEAN YOUNG 2기 | 대학생 테크인플루언서 | 맴버 | [링크](https://devocean.sk.com/) |
+| 2023.03 ~ 2023.11 | SKT DEVOCEAN YOUNG 2기 | 대학생 테크인플루언서 | 맴버 | [링크](https://devocean.sk.com/) |
 
 ## 📔 Career
 
@@ -53,7 +53,6 @@ Jinho Kim
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2023 | NLP | 네이버페이 사용 로그 분석 | 팀장 | [논문 작성중](https://github.com/jinho5913/NLP_Investigate-Naver-Pay-usage-logs) |
 | 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 개인 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
 | 2023 | Time Series | 샐러드 수요량 예측 모델 개발 | 개인 | [링크](https://github.com/jinho5913/DL_Time-Series-Forecasting) |
 | 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [논문 작성중](https://github.com/jinho5913/CV_Development-of-Video-Editing-Point-Marking-Technology-Using-Facial-Keypoint) |
